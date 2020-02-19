@@ -1,0 +1,33 @@
+h1 {
+	color: #003153;
+	font-family: helvetica;
+	background-color: linen;
+	border: 1px solid #003153;
+	width: 50%;
+	text-align: center;
+
+}
+
+img {
+	width: 40%;
+}
+
+h2 {
+	color: #003153;
+	font-family: helvetica;
+
+}
+
+div {
+	color: #003153;
+	width: 80%;
+	font-family: helvetica;
+}
+
+[data-vegetal] {
+	color: #86895d;
+}
+
+[data-opcional] {
+	color: #dea94c;
+}
